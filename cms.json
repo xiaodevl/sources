@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "name": "黑木耳",
+      "url": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "use_proxy": true,
+      "enabled": true
+    },
+     {
+    "name": "非凡",
+    "url": "http://cj.ffzyapi.com/api.php/provide/vod/at/json/",
+    "enabled": true,
+ 
+    "use_proxy": true
+  },
+  {
+    "name": "360",
+    "url": "https://360zy.com/api.php/provide/vod",
+    "enabled": true,
+   
+    "use_proxy": true
+  },
+  {
+    "name": "四圈",
+    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
+    "enabled": true,
+
+    "use_proxy": true
+  },
+  {
+    "name": "量子",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+    "enabled": true,
+   
+    "use_proxy": true
+  },
+ 
+  {
+    "name": "ikun",
+    "url": "https://ikunzyapi.com/api.php/provide/vod/",
+    "enabled": true,
+  
+    "use_proxy": false
+  },
+  ]
+}
